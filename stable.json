@@ -1,9 +1,9 @@
 {
   "channel": "stable",
-  "version": "0.1.0",
-  "latestVersion": "0.1.0",
+  "version": "1.0.0",
+  "latestVersion": "1.0.0",
   "published_at": "2026-04-29T00:00:00Z",
   "releaseNotes": "Release estable inicial de FusionKit External.",
-  "download_url_mac": "https://github.com/lmfxdr/fusionkit-updates/releases/download/v0.1.0/FusionKit-0.1.0-mac-arm64.dmg",
-  "download_url_windows": "https://github.com/lmfxdr/fusionkit-updates/releases/download/v0.1.0/FusionKit-0.1.0-win-x64.exe"
+  "download_url_mac": "https://github.com/lmfxdr/fusionkit-updates/releases/latest/download/FusionKit.dmg",
+  "download_url_windows": "https://github.com/lmfxdr/fusionkit-updates/releases/latest/download/FusionKit.exe"
 }
