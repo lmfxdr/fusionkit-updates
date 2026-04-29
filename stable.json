@@ -1,0 +1,8 @@
+{
+  "channel": "stable",
+  "latestVersion": "1.0.0",
+  "downloadUrlMac": "https://TU_LINK_MAC",
+  "downloadUrlWindows": "https://TU_LINK_WIN",
+  "releaseNotes": "Initial public release.",
+  "publishedAt": "2026-04-28"
+}
