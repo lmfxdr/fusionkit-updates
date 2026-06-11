@@ -1,9 +1,9 @@
 {
   "channel": "stable",
-  "version": "2.1.0",
-  "latestVersion": "2.1.0",
-  "published_at": "2026-09-09",
-  "releaseNotes": "Release estable 2.1.0",
+  "version": "2.1.1",
+  "latestVersion": "2.1.1",
+  "published_at": "2026-06-10",
+  "releaseNotes": "Release estable 2.1.1",
   "download_url_mac": "https://github.com/lmfxdr/fusionkit-updates/releases/latest/download/FusionKit.dmg",
   "download_url_windows": "https://github.com/lmfxdr/fusionkit-updates/releases/latest/download/FusionKit.exe"
 }
